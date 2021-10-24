@@ -1,0 +1,46 @@
+
+/* navbar */
+body{
+
+    padding: 0%;
+    margin: 0%;
+    text-decoration: none;
+    list-style: none;
+    
+}
+.hd-txt{
+    font-weight: lighter;
+    
+}
+.logo-txt{
+    font-size: 40px;
+}
+
+.nav-row{
+    background-color: rgb(45, 46, 46);
+    height: 60px;
+}
+.main-nav{
+    display: inline-block;
+    margin: 5px;
+    font-size: 19px;
+}
+.navbar-light .navbar-nav .active>.nav-link{
+    color: #fff;
+}
+a{
+    color: #fff;
+}
+.search-bar{
+    float:right;
+}
+.navbar-toggler{
+    float: right;
+}
+#par-txt{
+    color: #fff;
+}
+.navbar-light .navbar-nav .nav-link{
+    color: #ffff;
+}
+p{color: #000;}
