@@ -1,6 +1,9 @@
 <div class="container p-0 ">
         <div class="row">
-            <div class="col-md-4 col-12 mb-2 mb-md-0">
+        <div class="col-md-3">
+            </div>
+
+            <div class="col-md-3 col-12 mb-2 mb-md-0">
             <div class="card ">
                 <img src="images/card-imgs/card-img.jpg" class="card-img-top" alt="">
                     <div class="card-body">
@@ -8,7 +11,8 @@
                     </div>
              </div>
             </div>
-            <div class="col-md-4 col-12 mb-2 mb-md-0">
+
+            <div class="col-md-3 col-12 mb-2 mb-md-0">
             <div class="card">
                 <img src="images/card-imgs/card-img-1.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
@@ -16,7 +20,8 @@
                     </div>
              </div>
             </div>
-            <div class="col-md-4 col-12 mb-2 mb-md-0">
+
+            <div class="col-md-3 col-12 mb-2 mb-md-0">
             <div class="card">
                 <img src="images/card-imgs/card-img.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
@@ -24,6 +29,7 @@
                     </div>
              </div>
             </div>
+
         </div>
     </div>
 </div>
