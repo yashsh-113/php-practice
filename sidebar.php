@@ -10,7 +10,8 @@
 // }
 // echo "<ul>";
 
-$a = "team";
+$a = "week";
+
 if($a == "week")
 {
     echo "<a class='list-group-item list-group-item-action'>monday</a><br>";

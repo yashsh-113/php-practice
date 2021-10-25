@@ -9,13 +9,12 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <?php
                 $menu = array("home","about us","contact","company");
+                $link = array("home.php","about.php","contact.php","company.php");
                     echo "<ul class=' navbar-nav ml-auto'>";
-                    for($i=0; $i<1; $i++)
+                    for($i=0; $i<4; $i++)
                     {
-                    echo  "<li class='main-nav'><a href='google.com'> $menu[0]</a> </li>";
-                    echo  "<li class='main-nav'><a href='about.php'> $menu[1]</a> </li>";
-                    echo  "<li class='main-nav'><a href='flikart.com'> $menu[2]</a> </li>";
-                    echo  "<li class='main-nav'><a href='amazon.com'> $menu[3]</a> </li>";
+                    echo  "<li class='main-nav'><a href='$link[$i]'> $menu[$i]</a> </li>";
+                 
                     }
                 echo "<ul>";
             ?>
