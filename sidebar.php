@@ -10,7 +10,7 @@
 // }
 // echo "<ul>";
 
-$a = "week";
+$a = "team";
 
 if($a == "week")
 {
