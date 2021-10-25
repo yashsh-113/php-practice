@@ -41,15 +41,18 @@
                 <p>
                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero officiis fugiat rem fugit autem nulla, mollitia, aspernatur deserunt quaerat, sed placeat consequatur sequi ea eum! Accusamus temporibus incidunt corrupti ducimus, quae, doloremque corporis illum alias commodi laudantium, eveniet quibusdam molestias!
                 </p> 
-            </div>
-    </div>
-
-
-    <div>
+                
+                <div>
         <?php
             include 'card.php';
         ?>
     </div>
+
+            </div>
+    </div>
+
+
+   
 
     <div>
         <?php
